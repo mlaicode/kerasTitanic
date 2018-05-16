@@ -37,7 +37,7 @@ pip install mlinstrumentation
 ```
 
 ## Query for the data
-[Dashboard here](http://bit.ly/mldashboard)
+[Dashboard here](http://bit.ly/mlinstrumentation)
 
 Sample image
 ![Dashboard ](assets/images/dashsnap.png)
