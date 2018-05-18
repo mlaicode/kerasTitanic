@@ -2,9 +2,11 @@
 
 [Titanic classifier in Keras](https://github.com/mlaicode/kerasTitanic)
 
+[Cifar10 classifier in FastAI](https://github.com/mlaicode/fastaiCifar10)
+
 ## MLInstrumention: Machine Learning/Artificial intelligence code instrumentation
 
-<b>MLInstrumentation</b> is a python package for instrumenting your ML/AI code. It has support for popular Keras/Tensorflow libraries currently. And other deep learning libraries support is under development.
+<b>MLInstrumentation</b> is a python package for instrumenting your ML/AI code. It has support for popular Keras/Tensorflow and FastAI libraries currently. And other deep learning libraries support is under development.
 
 ## Use Case
 <b>MLInstrumentation</b>  package gathers metrics from a Linux/Windows/Solaris/AIX machine and reports to shared hosted Grafana dashboard. Users can select and filter the based on GroupName, FileName, etc to select data of their interest.
@@ -40,5 +42,4 @@ pip install mlinstrumentation
 [Dashboard here](http://bit.ly/mlinstrumentation)
 
 Sample image
-![Dashboard ](assets/images/dashsnap.png)
-
+![Dashboard ](https://github.com/mlaicode/kerasTitanic/blob/master/assets/images/dashsnap.png)
